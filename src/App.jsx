@@ -7,7 +7,7 @@ function App() {
   return (
     <div style={{ textAlign: 'center', marginTop: '20%' }}>
       <h1>Rohith Krishna P</h1>
-      <p>Developing / Building portfolio in progress</p>
+      <p>Portfolio coming soon. Stay tuned for updates!</p>
     </div>
   );
 }
